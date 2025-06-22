@@ -4,6 +4,13 @@ This repository contains the Pyöräklubi application and its related databases 
 
 📘 **This project was created as part of a school assignment.**
 
+## Overview
+
+For an overview of the Pyöräklubi application, including screenshots, technologies used, and a demo video link, see the document below:
+
+📄 **[Pyöräklubi Yleiskatsaus (PDF)](https://github.com/VideoGamerMan/Pyoraklubi/blob/main/Pyöräklubi%20Yleiskatsaus.pdf)**  
+(*Note: This document is written in Finnish.*)
+
 ## Installation
 
 To install and run the application, follow the detailed instructions in the installation guide:
