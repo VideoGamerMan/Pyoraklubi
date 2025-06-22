@@ -1,30 +1,38 @@
 # Pyöräklubi
 
-This repository contains the Pyöräklubi application and its related databases (excluding the SSMS database, which is linked in the installation guide).
-
-📘 **This project was created as part of a school assignment.**
-
-## Overview
-
-For an overview of the Pyöräklubi application, including screenshots, technologies used, and a demo video link, see the document below:
-
-📄 **[Pyöräklubi Yleiskatsaus (PDF)](https://github.com/VideoGamerMan/Pyoraklubi/blob/main/Pyöräklubi%20Yleiskatsaus.pdf)**  
-(*Note: This document is written in Finnish.*)
+**Pyöräklubi** is a school project created with ASP.NET and C#. It is a simple web application for managing personal data and was built using Visual Studio.  
+This repository is public and intended for educational and demonstration purposes.
 
 ## Installation
 
-To install and run the application, follow the detailed instructions in the installation guide:
+A detailed installation guide (in Finnish) is available here:  
+📄 [Ohje – Pyöräklubin Asennus (PDF)](https://github.com/VideoGamerMan/Pyoraklubi/blob/main/Ohje%20-%20Py%C3%B6r%C3%A4klubin%20Asennus.pdf)
 
-➡️ **[Ohje – Pyöräklubin Asennus (PDF)](https://github.com/VideoGamerMan/Pyoraklubi/blob/main/Ohje%20-%20Pyöräklubin%20Asennus.pdf)**  
+## Overview
+
+This project was built using the following technologies:
+
+- C#
+- HTML
+- ASP.NET
+- CSS  
+(Developed in Visual Studio)
+
+### Features
+
+- **Console Output** – Displays log information during interactions
+- **Home Page** – A welcome screen shown when visiting the site
+- **Information Page** – View, sort, edit, and delete records
+- **Create Page** – Add new personal data entries
+- **Search Page** – Search entries by first name
+- **Privacy Page** – Displays privacy policy
+- **Register/Login Pages** – UI exists, but functionality is not implemented
+
+📄 [View full overview PDF (in Finnish)](https://github.com/VideoGamerMan/Pyoraklubi/blob/main/Py%C3%B6r%C3%A4klubi%20Yleiskatsaus.pdf)
 (*Note: The guide is written in Finnish.*)
 
-## Notes
+🎥 A video demonstration is linked at the bottom of the overview document.
 
-- Some filenames, content, or instructions are in Finnish.
-- The SSMS database must be set up separately. See the guide for more information.
+## License
 
-## License / Disclaimer
-
-This repository is public and shared for educational and demonstration purposes only.  
-The application and code were developed in a learning environment and may not follow production-level standards.  
-Use at your own discretion.
+This project is for educational and learning purposes. Attribution is appreciated but not required.
