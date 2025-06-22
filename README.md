@@ -1,4 +1,4 @@
-# Pyöräklubi
+# Pyoraklubi
 
 **Pyöräklubi** is a school project created with ASP.NET and C#. It is a simple web application for managing personal data and was built using Visual Studio.  
 This repository is public and intended for educational and demonstration purposes.
