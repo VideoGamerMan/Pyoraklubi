@@ -29,7 +29,6 @@ This project was built using the following technologies:
 - **Register/Login Pages** – UI exists, but functionality is not implemented
 
 📄 **[View full overview PDF (in Finnish)](https://github.com/VideoGamerMan/Pyoraklubi/blob/main/Py%C3%B6r%C3%A4klubi%20Yleiskatsaus.pdf)**
-(*Note: The guide is written in Finnish.*)
 
 🎥 A video demonstration is linked at the bottom of the overview document.
 
