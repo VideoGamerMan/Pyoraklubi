@@ -8,7 +8,7 @@ This repository contains the Pyöräklubi application and its related databases 
 
 To install and run the application, follow the detailed instructions in the installation guide:
 
-➡️ **[Ohje – Pyöräklubi asennus (PDF)](Ohje%20–%20Pyöräklubi%20asennus.pdf)**  
+➡️ **[Ohje – Pyöräklubin Asennus (PDF)](https://github.com/VideoGamerMan/Pyoraklubi/blob/main/Ohje%20-%20Pyöräklubin%20Asennus.pdf)**  
 (*Note: The guide is written in Finnish.*)
 
 ## Notes
